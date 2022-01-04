@@ -11,7 +11,7 @@ h1{
     color: orange;
 }
 
-section{
+.section-felx{
     display: flex;
     margin-bottom: 10px;
 }
@@ -44,3 +44,4 @@ section{
     background-position: right;
     
 }
+
