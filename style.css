@@ -13,6 +13,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 10px;
 }
 .fast-div{
     width: 50%;
@@ -30,8 +31,16 @@ section{
     border-radius: 5px;
 }
 
+
 .fast-section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    
 
+}
+.section-two{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
